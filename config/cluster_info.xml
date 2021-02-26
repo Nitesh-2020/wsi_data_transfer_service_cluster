@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cluster_info>    
+	<ip value="10.20.0.1"/>
+	<tar_type value="3"/>
+	<src_path value="/home/adminspin/wsi_app/acquired_data/"/>
+	<dst_path value="/home/adminspin/wsi_app/acquired_data"/>    
+</cluster_info>
